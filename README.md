@@ -3,8 +3,6 @@
 
 This is a project related to APT traffic detection.
 
-This work has been submitted to **ICASSP2025**. 
-
 ## Abstract:
 
 Advanced Persistent Threats (APT) differ from traditional attacks like DDoS or webshells. They employ more complex and covert infiltration strategies to execute long-term assaults on target systems, posing a severe threat to organizational and national security. Identifying complex APT activities without relying on known Indicator of Compromise (IOC) clues has proven challenging. Due to problems like the shortage of APT traffic data and encrypted traffic obfuscation, existing methods cannot accurately identify APT traffic with just a few attack traffic samples.
