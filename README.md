@@ -49,9 +49,9 @@ Recommended Weights: 0.2, 0.8
 
 The “Recommended Weights” in the above example represent the auxiliary weight matrix data trained through our simulated fine-tuning mechanism.
 
-**An example question is as follows.**
+**An example of input for querying the large model is shown below.**
 
-You  are  an  experienced  APT traffic analysis expert. Please classify the following traffic support data  into  one  of  the  categories  below  based  on  the  reference information  provided.  Categories:  Label0 Benign Traffic,  La- bel1 APT  Traffic.
+You  are  an  experienced  APT traffic analysis expert. Please classify the following traffic support data  into  one  of  the  categories  below  based  on  the  reference information  provided.  Categories:  Label0 Benign Traffic,  Label1 APT  Traffic.
 
 Exact Match:
 Benign: 20, APT: 50,
