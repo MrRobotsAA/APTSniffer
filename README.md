@@ -1,7 +1,7 @@
 # APTSniffer
 ## Introduction:
 
-This is a project related to APT traffic detection.
+This is a project related to APT traffic detection. The work was presented at the ICASSP 2025 international conference, with the paper titled 《APTSniffer: Detecting APT Attack Traffic Using Retrieval-Augmented Large Language Models》. If you use the dataset from this paper, please do not forget to include the appropriate citation.
 
 ## Abstract:
 
